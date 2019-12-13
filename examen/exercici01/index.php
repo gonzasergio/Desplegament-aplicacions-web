@@ -1,6 +1,7 @@
 <?php
 session_start();
 
+
 $items[0] = array("nom" => "Camiseta fressetes", "color" => "groc", "preu" => "5");
 $items[1] = array("nom" => "Camiseta Lion", "color" => "rosa", "preu" => "10");
 $items[2] = array("nom" => "Camiseta Polaroid", "color" => "negre", "preu" => "15");
